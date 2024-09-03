@@ -7,5 +7,5 @@ Meu nome é Rodrigo Ribas Saboia Rodrigues dos Santos, tenho 25 anos, e estou em
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigorsrs&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigorsrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="374.3" height="195" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigorsrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" width="374.3" height="195" alt="languages graph" />
 </div>
