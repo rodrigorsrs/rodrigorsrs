@@ -6,7 +6,7 @@ Meu nome é Rodrigo Ribas Saboia Rodrigues dos Santos, tenho 25 anos, e estou em
 <div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigorsrs&show_icons=true&theme=merko&hide_border=false" width="800" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigorsrs&show_icons=true&theme=merko&hide_border=false" width="400" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigorsrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" width="400" height="150" alt="languages graph" />
 </div>
 
