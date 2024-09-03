@@ -11,4 +11,4 @@ Meu nome é Rodrigo Ribas Saboia Rodrigues dos Santos, tenho 25 anos, e estou em
 </div>
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="150" height="80"/>
