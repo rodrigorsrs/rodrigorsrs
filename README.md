@@ -10,4 +10,4 @@ Meu nome é Rodrigo Ribas Saboia Rodrigues dos Santos, tenho 25 anos, e estou em
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigorsrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" width="600" height="200" alt="languages graph" />
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="80" height="40"/>
